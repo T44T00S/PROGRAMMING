@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s5JQcp7t4VUcaNISciNjuwbkWvYm1FcQdGDLe1OLKhFpp22RXqBaEvoewCmfYQzskSO5hm9XBo+dA3lJDvCkxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\4_Coordinates\\4_Coordinates\\4_Coordinates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
