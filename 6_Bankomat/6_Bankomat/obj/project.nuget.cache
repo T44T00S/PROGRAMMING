@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QCv6bFYcHMiGafWQZ0vSQDkw9LGBYFAm9FR9Y3fvQsv8pLWQzW8kxpAeaZ/oaDYNvQhIoA1vm+67Q1X83tZ71w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\6_Bankomat\\6_Bankomat\\6_Bankomat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
