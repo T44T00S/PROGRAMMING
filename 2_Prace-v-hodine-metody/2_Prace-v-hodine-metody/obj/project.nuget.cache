@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHkuOp/mCK0coNdlodX3RiEhJRcuQHXlZDJZpY2vk63dCcFFhqgicj0vKu136yJzOJGQ5ePRFMCpvv9NjuXfMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\2_Prace-v-hodine-metody\\2_Prace-v-hodine-metody\\2_Prace-v-hodine-metody.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
