@@ -1,7 +1,0 @@
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Prace-v-hodine(metoda)\Prace-v-hodine(metoda)\bin\Debug\Prace-v-hodine(metoda).exe.config
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Prace-v-hodine(metoda)\Prace-v-hodine(metoda)\bin\Debug\Prace-v-hodine(metoda).exe
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Prace-v-hodine(metoda)\Prace-v-hodine(metoda)\bin\Debug\Prace-v-hodine(metoda).pdb
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Prace-v-hodine(metoda)\Prace-v-hodine(metoda)\obj\Debug\Prace-v-hodine(metoda).csprojAssemblyReference.cache
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Prace-v-hodine(metoda)\Prace-v-hodine(metoda)\obj\Debug\Prace-v-hodine(metoda).csproj.CoreCompileInputs.cache
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Prace-v-hodine(metoda)\Prace-v-hodine(metoda)\obj\Debug\Prace-v-hodine(metoda).exe
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Prace-v-hodine(metoda)\Prace-v-hodine(metoda)\obj\Debug\Prace-v-hodine(metoda).pdb
