@@ -1,0 +1,7 @@
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv1_Blacklist\Cv1_Blacklist\bin\Debug\Cv1_Blacklist.exe.config
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv1_Blacklist\Cv1_Blacklist\bin\Debug\Cv1_Blacklist.exe
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv1_Blacklist\Cv1_Blacklist\bin\Debug\Cv1_Blacklist.pdb
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv1_Blacklist\Cv1_Blacklist\obj\Debug\Cv1_Blacklist.csprojAssemblyReference.cache
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv1_Blacklist\Cv1_Blacklist\obj\Debug\Cv1_Blacklist.csproj.CoreCompileInputs.cache
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv1_Blacklist\Cv1_Blacklist\obj\Debug\Cv1_Blacklist.exe
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv1_Blacklist\Cv1_Blacklist\obj\Debug\Cv1_Blacklist.pdb

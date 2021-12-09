@@ -1,0 +1,7 @@
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_2_Samo-souhl\Cv2_2_Samo-souhl\bin\Debug\Cv2_2_Samo-souhl.exe.config
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_2_Samo-souhl\Cv2_2_Samo-souhl\bin\Debug\Cv2_2_Samo-souhl.exe
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_2_Samo-souhl\Cv2_2_Samo-souhl\bin\Debug\Cv2_2_Samo-souhl.pdb
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_2_Samo-souhl\Cv2_2_Samo-souhl\obj\Debug\Cv2_2_Samo-souhl.csprojAssemblyReference.cache
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_2_Samo-souhl\Cv2_2_Samo-souhl\obj\Debug\Cv2_2_Samo-souhl.csproj.CoreCompileInputs.cache
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_2_Samo-souhl\Cv2_2_Samo-souhl\obj\Debug\Cv2_2_Samo-souhl.exe
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_2_Samo-souhl\Cv2_2_Samo-souhl\obj\Debug\Cv2_2_Samo-souhl.pdb

@@ -1,0 +1,7 @@
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Metody-a-vlastnosti\Metody-a-vlastnosti\bin\Debug\Metody-a-vlastnosti.exe.config
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Metody-a-vlastnosti\Metody-a-vlastnosti\bin\Debug\Metody-a-vlastnosti.exe
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Metody-a-vlastnosti\Metody-a-vlastnosti\bin\Debug\Metody-a-vlastnosti.pdb
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Metody-a-vlastnosti\Metody-a-vlastnosti\obj\Debug\Metody-a-vlastnosti.csprojAssemblyReference.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Metody-a-vlastnosti\Metody-a-vlastnosti\obj\Debug\Metody-a-vlastnosti.csproj.CoreCompileInputs.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Metody-a-vlastnosti\Metody-a-vlastnosti\obj\Debug\Metody-a-vlastnosti.exe
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Metody-a-vlastnosti\Metody-a-vlastnosti\obj\Debug\Metody-a-vlastnosti.pdb

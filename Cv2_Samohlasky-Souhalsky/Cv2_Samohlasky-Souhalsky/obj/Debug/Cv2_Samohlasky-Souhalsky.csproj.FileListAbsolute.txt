@@ -1,0 +1,7 @@
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_Samohlasky-Souhalsky\Cv2_Samohlasky-Souhalsky\bin\Debug\Cv2_Samohlasky-Souhalsky.exe.config
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_Samohlasky-Souhalsky\Cv2_Samohlasky-Souhalsky\bin\Debug\Cv2_Samohlasky-Souhalsky.exe
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_Samohlasky-Souhalsky\Cv2_Samohlasky-Souhalsky\bin\Debug\Cv2_Samohlasky-Souhalsky.pdb
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_Samohlasky-Souhalsky\Cv2_Samohlasky-Souhalsky\obj\Debug\Cv2_Samohlasky-Souhalsky.csprojAssemblyReference.cache
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_Samohlasky-Souhalsky\Cv2_Samohlasky-Souhalsky\obj\Debug\Cv2_Samohlasky-Souhalsky.csproj.CoreCompileInputs.cache
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_Samohlasky-Souhalsky\Cv2_Samohlasky-Souhalsky\obj\Debug\Cv2_Samohlasky-Souhalsky.exe
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv2_Samohlasky-Souhalsky\Cv2_Samohlasky-Souhalsky\obj\Debug\Cv2_Samohlasky-Souhalsky.pdb

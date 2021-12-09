@@ -1,0 +1,7 @@
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\25-11-2021\25-11-2021\obj\Debug\25-11-2021.csprojAssemblyReference.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\25-11-2021\25-11-2021\obj\Debug\25-11-2021.csproj.CoreCompileInputs.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\25-11-2021\25-11-2021\bin\Debug\25-11-2021.exe.config
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\25-11-2021\25-11-2021\bin\Debug\25-11-2021.exe
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\25-11-2021\25-11-2021\bin\Debug\25-11-2021.pdb
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\25-11-2021\25-11-2021\obj\Debug\25-11-2021.exe
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\25-11-2021\25-11-2021\obj\Debug\25-11-2021.pdb
