@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/vCQJUf8fgU04VIc33VuLjmwnEP2AeHaVSlZXws53jEF4jDI8o8se4HoHCrhImTbE37Q2xiHw9YsQIfUP1jsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\1_Opakovani_stringu\\1_Opakovani_stringu\\1_Opakovani_stringu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
