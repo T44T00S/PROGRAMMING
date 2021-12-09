@@ -1,7 +1,0 @@
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Filmova-databaze\Filmova-databaze\bin\Debug\Filmova-databaze.exe.config
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Filmova-databaze\Filmova-databaze\bin\Debug\Filmova-databaze.exe
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Filmova-databaze\Filmova-databaze\bin\Debug\Filmova-databaze.pdb
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Filmova-databaze\Filmova-databaze\obj\Debug\Filmova-databaze.csprojAssemblyReference.cache
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Filmova-databaze\Filmova-databaze\obj\Debug\Filmova-databaze.csproj.CoreCompileInputs.cache
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Filmova-databaze\Filmova-databaze\obj\Debug\Filmova-databaze.exe
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Filmova-databaze\Filmova-databaze\obj\Debug\Filmova-databaze.pdb

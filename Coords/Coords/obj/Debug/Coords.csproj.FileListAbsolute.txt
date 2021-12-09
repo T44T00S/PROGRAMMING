@@ -1,7 +1,0 @@
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Coords\Coords\bin\Debug\Coords.exe.config
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Coords\Coords\bin\Debug\Coords.exe
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Coords\Coords\bin\Debug\Coords.pdb
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Coords\Coords\obj\Debug\Coords.csprojAssemblyReference.cache
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Coords\Coords\obj\Debug\Coords.csproj.CoreCompileInputs.cache
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Coords\Coords\obj\Debug\Coords.exe
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Coords\Coords\obj\Debug\Coords.pdb
