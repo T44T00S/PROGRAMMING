@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bmFonobRd1oAXc7J1dyHiokMz4uUM2pF8Ec0qRqVnSduTjFBWre0lZ03ssuS/nbo2jSaDhhlq6/SaInCVWlV7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\3_Metody-a-vlastnosti\\3_Metody-a-vlastnosti\\3_Metody-a-vlastnosti.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
