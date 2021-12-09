@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XWp/oMUS+I4kBAj25WG9plNfFexZD1htDyqqDer3Jg22f/Zg5V1OJb2Y8lmPKy82D/xHO6x9fN42OUcU/tzPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\8_Dimensions\\8_Dimensions\\8_Dimensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
