@@ -17,7 +17,7 @@ namespace _25_11_2021
 
             Console.WriteLine(user2.pin);
 
-            bool loggedIn = false;
+            bool loggedIn = false; 
 
             while (true)
             {
@@ -31,10 +31,10 @@ namespace _25_11_2021
                         Console.WriteLine("Zadejte pin: ");
                         int PIN = int.Parse(Console.ReadLine());
 
-                        for (int PIN = 999; PIN < 1000; PIN++)
-                        {
+                        // for (int PIN = 999; PIN < 1000; PIN++)
+                        // {
 
-                        }
+                        // }
 
                         if (uzivatele.Find(u => u.jmeno == JMENO).pin == PIN)
                         {

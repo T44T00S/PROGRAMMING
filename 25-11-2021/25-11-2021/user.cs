@@ -11,12 +11,13 @@ namespace _25_11_2021
     {
         public user(string jmeno)
         {
-            Random rd = new Random();
+            // Random rd = new Random();
             //MD5 md5 = MD5.Create();
 
             this.jmeno = jmeno;
             //this.pin = md5.ComputeHash(Encoding.ASCII.GetBytes(rd.Next(999, 1000).ToString()));
-            this.pin = rd.Next(999, 1000);
+            // this.pin = rd.Next(999, 1000);
+            this.pin = 1111;
             //this.pin = 0000;
             this.zustatek = 10000;
         }
