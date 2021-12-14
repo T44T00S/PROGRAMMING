@@ -19,9 +19,9 @@ namespace _6_Bankomat
             this.zustatek = 10000;
         }
 
-        public string jmeno;
-        public int pin;
+        public string jmeno { get; set; }
+        public int pin { get; set; }
         //public byte[] pin;
-        public int zustatek;
+        public int zustatek { get; set; }
     }
 }
