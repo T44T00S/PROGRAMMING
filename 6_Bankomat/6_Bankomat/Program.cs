@@ -13,7 +13,7 @@ namespace _6_Bankomat
             user user1 = new user("Honza");
             user user2 = new user("Karel");
             user user3 = new user("Anna");
-            List<user> uzivatele = new List<user> { user1, user2, user3 };
+            List<user> uzivatele = new List<user> { user1, user2, user3 }; 
 
             Console.WriteLine(user2.pin);
 
@@ -21,15 +21,15 @@ namespace _6_Bankomat
 
             while (true)
             {
-                while (!loggedIn)
+                while (!loggedIn) 
                 {
-                    Console.Write("Zadejte jméno: ");
+                    Console.Write("Zadejte jméno: ");  
                     string JMENO = Console.ReadLine();
 
                     if (uzivatele.Exists(u => u.jmeno == JMENO))
                     {
                         Console.WriteLine("Zadejte pin: ");
-                        int PIN = int.Parse(Console.ReadLine());
+                        int PIN = int.Parse(Console.ReadLine());   
 
                         // for (int PIN = 999; PIN < 1000; PIN++)
                         // {

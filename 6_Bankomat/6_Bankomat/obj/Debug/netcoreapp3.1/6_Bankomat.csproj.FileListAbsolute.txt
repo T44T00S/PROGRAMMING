@@ -11,3 +11,16 @@ C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Ba
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\obj\Debug\netcoreapp3.1\6_Bankomat.dll
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\obj\Debug\netcoreapp3.1\6_Bankomat.pdb
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\obj\Debug\netcoreapp3.1\6_Bankomat.genruntimeconfig.cache
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\bin\Debug\netcoreapp3.1\6_Bankomat.exe
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\bin\Debug\netcoreapp3.1\6_Bankomat.deps.json
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\bin\Debug\netcoreapp3.1\6_Bankomat.runtimeconfig.json
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\bin\Debug\netcoreapp3.1\6_Bankomat.runtimeconfig.dev.json
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\bin\Debug\netcoreapp3.1\6_Bankomat.dll
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\bin\Debug\netcoreapp3.1\6_Bankomat.pdb
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\obj\Debug\netcoreapp3.1\6_Bankomat.csprojAssemblyReference.cache
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\obj\Debug\netcoreapp3.1\6_Bankomat.AssemblyInfoInputs.cache
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\obj\Debug\netcoreapp3.1\6_Bankomat.AssemblyInfo.cs
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\obj\Debug\netcoreapp3.1\6_Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\obj\Debug\netcoreapp3.1\6_Bankomat.dll
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\obj\Debug\netcoreapp3.1\6_Bankomat.pdb
+C:\Users\petrk\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\6_Bankomat\6_Bankomat\obj\Debug\netcoreapp3.1\6_Bankomat.genruntimeconfig.cache
