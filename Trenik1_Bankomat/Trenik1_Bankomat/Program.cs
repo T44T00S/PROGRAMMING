@@ -10,19 +10,33 @@ namespace Trenik1_Bankomat
     {
         static void Main(string[] args)
         {
-            user user1 = new user("Michal");
-            user user2 = new user("Lukas");
-            user user3 = new user("Filip");
-            List <user> uzivatele = new List<user> { user1, user2, user3 };
-
-            bool loggedIn = false;
-
             while (true)
             {
-                while (!loggedIn)
+                user.ziskatPin();
+                string cmd = "";
+
+                do
                 {
-                    
-                }
+                    Console.Write("Zadejte příkaz: ");
+                    cmd = Console.ReadLine();
+                    Console.WriteLine("zustatek, vybrat, poslat, odhlasit");
+
+                    switch (cmd)
+                    {
+                        case "zustatek";
+
+
+
+
+
+                        default:
+                            break;
+                    }
+
+
+
+
+                } while (cmd != "odhlasit");
             }
         }
     }

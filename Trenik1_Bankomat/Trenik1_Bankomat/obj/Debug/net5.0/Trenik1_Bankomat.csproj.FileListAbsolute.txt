@@ -1,0 +1,5 @@
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik1_Bankomat\Trenik1_Bankomat\obj\Debug\net5.0\Trenik1_Bankomat.csprojAssemblyReference.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik1_Bankomat\Trenik1_Bankomat\obj\Debug\net5.0\Trenik1_Bankomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik1_Bankomat\Trenik1_Bankomat\obj\Debug\net5.0\Trenik1_Bankomat.AssemblyInfoInputs.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik1_Bankomat\Trenik1_Bankomat\obj\Debug\net5.0\Trenik1_Bankomat.AssemblyInfo.cs
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik1_Bankomat\Trenik1_Bankomat\obj\Debug\net5.0\Trenik1_Bankomat.csproj.CoreCompileInputs.cache

@@ -15,7 +15,40 @@ namespace Trenik1_Bankomat
             this.zustatek = 10000;
         }
 
-        public static void 
+        public static void ziskatPin()
+        {
+            user user1 = new user("Michal");
+            user user2 = new user("Lukas");
+            user user3 = new user("Filip");
+            List<user> uzivatele = new List<user> { user1, user2, user3 };
+
+            bool loggedIn = false;
+
+            while (true)
+            {
+                while (!loggedIn)
+                {
+                    Console.Write("Zadejte jméno: ");
+                    string JMENO = Console.ReadLine();
+
+                    if (uzivatele.Exists(u => u.jmeno == JMENO))
+                    {
+                        Console.WriteLine("Zadejte PIN: ");
+                        int PIN = int.Parse(Console.ReadLine());
+
+                        if (uzivatele.Find(u => u.jmeno == JMENO).pin == PIN)
+                        {
+                            user uziv = uzivatele.Find(u => u.jmeno == JMENO);
+                        }
+                    }
+                }
+            }
+        }
+
+        public static void vypsatZustatek()
+        {
+            Console.WriteLine(uziv.zustatek);
+        }
 
         public string jmeno { get; set; }
         public int pin { get; set; }
