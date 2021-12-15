@@ -23,7 +23,7 @@ namespace Trenik1_Bankomat
 
                     switch (cmd)
                     {
-                        case "zustatek";
+                        case
 
 
 

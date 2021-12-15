@@ -47,12 +47,11 @@ namespace Trenik1_Bankomat
 
         public static void vypsatZustatek()
         {
-            Console.WriteLine(uziv.zustatek);
+            Console.WriteLine();
         }
 
         public string jmeno { get; set; }
         public int pin { get; set; }
         public int zustatek { get; set; }
-
-    }
+}
 }
