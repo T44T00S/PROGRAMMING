@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yCeVVtXi1OXDABN/Xa0ASbfR2U4Ix51qOb06lEcF7gJmKZrWX//7ZMIXNIP+WnGrrrmu3s0gCB2501RPijCviA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\11_IP-adress\\11_IP-adress\\11_IP-adress.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

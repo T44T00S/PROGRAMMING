@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\Cv3_Twitter-bot\\Cv3_Twitter-bot\\Cv3_Twitter-bot.csproj": {}
+    "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\11_IP-adress\\11_IP-adress\\11_IP-adress.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\Cv3_Twitter-bot\\Cv3_Twitter-bot\\Cv3_Twitter-bot.csproj": {
+    "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\11_IP-adress\\11_IP-adress\\11_IP-adress.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\Cv3_Twitter-bot\\Cv3_Twitter-bot\\Cv3_Twitter-bot.csproj",
-        "projectName": "Cv3_Twitter-bot",
-        "projectPath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\Cv3_Twitter-bot\\Cv3_Twitter-bot\\Cv3_Twitter-bot.csproj",
+        "projectUniqueName": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\11_IP-adress\\11_IP-adress\\11_IP-adress.csproj",
+        "projectName": "11_IP-adress",
+        "projectPath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\11_IP-adress\\11_IP-adress\\11_IP-adress.csproj",
         "packagesPath": "C:\\Users\\Petr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\Cv3_Twitter-bot\\Cv3_Twitter-bot\\obj\\",
+        "outputPath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\11_IP-adress\\11_IP-adress\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Petr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "TweetinviAPI": {
-              "target": "Package",
-              "version": "[5.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
