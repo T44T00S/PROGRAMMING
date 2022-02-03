@@ -9,7 +9,7 @@ namespace _11_IP_adress
             IPAddress IP = IPAddress.Parse("127.0.0.1");
             int PORT = 3000;
 
-            Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+            Socket s = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             socket.Bind(new IPEndPoint(IP, PORT));
 
         }
