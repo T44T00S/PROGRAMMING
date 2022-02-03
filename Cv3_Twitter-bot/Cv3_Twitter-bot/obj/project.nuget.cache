@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QgZTKRWQGr8zhtROfomgKYHFJmb+kY/W+hZP6kVnjM4FL7pA0g+RvQ16agvqaqI1qQd4eAzvnKiDPwE/6rTWKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\Cv3_Twitter-bot\\Cv3_Twitter-bot\\Cv3_Twitter-bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
