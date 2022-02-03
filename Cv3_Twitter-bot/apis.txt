@@ -1,0 +1,9 @@
+api key - 1C349dRR86oqNYUXm959a9Y44
+api key secret - DnSHCRKK5dCzqw31TYSfqF77q1JmYQ9gbz41UrffI8FICeiMyh
+bearer token - AAAAAAAAAAAAAAAAAAAAAOVIYwEAAAAAqTVyMutqa1R9gvcV2KXPnoGs3HY%3DFNBG2dUotqbPvUN5RYzB5zsYsdsNK9tjRubkoEBkMDIfibQIgS
+
+access token - 1205458880593039362-kgWXTvvUfIXazA6JD3MVao9B33KbdN
+access secret - r449nQ5E09lRtmtzXcr9Fr8tJIbKQoArlULQzEZjKpnIq
+
+client id - Nm13UW1lckZzemlIZ3ZDMFo0d0k6MTpjaQ
+client secret - BrfqUlli_YhUGJOccFOEKE8pi5mLA0oeJ5bigr4ddwCiH8RWKK
