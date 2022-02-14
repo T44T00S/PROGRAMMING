@@ -7,3 +7,12 @@ access secret - r449nQ5E09lRtmtzXcr9Fr8tJIbKQoArlULQzEZjKpnIq
 
 client id - Nm13UW1lckZzemlIZ3ZDMFo0d0k6MTpjaQ
 client secret - BrfqUlli_YhUGJOccFOEKE8pi5mLA0oeJ5bigr4ddwCiH8RWKK
+
+https://twitter.com/i/oauth2/authorize?response_type=code&client_id=Nm13UW1lckZzemlIZ3ZDMFo0d0k6MTpjaQ&redirect_uri=http://localhost:3000&scope=tweet.read%20users.read%20follows.read%20follows.write&state=state&code_challenge=challenge&code_challenge_method=plain
+
+curl -X POST https://api.twitter.com/2/tweets -H "Authorization: Bearer $ACCESS_TOKEN" -H "Content-type: application/json" -d '{"text": "Hello World!"}'
+
+
+
+
+curl --location --request POST 'https://api.twitter.com/2/oauth2/token' --header 'Content-Type: application/x-www-form-urlencoded' --data-urlencode 'code=U2dHWFkwM3lZTklabEZVQ09GcUZhazRpVlNvTTdtWVExZ2VLLV9DOTNJM0NuOjE2NDQ0OTU4NDc0MTQ6MTowOmFjOjE' --data-urlencode 'grant_type=authorization_code' --data-urlencode 'client_id=Nm13UW1lckZzemlIZ3ZDMFo0d0k6MTpjaQ' --data-urlencode 'redirect_uri=http://localhost:3000' --data-urlencode 'code_verifier=challenge'
