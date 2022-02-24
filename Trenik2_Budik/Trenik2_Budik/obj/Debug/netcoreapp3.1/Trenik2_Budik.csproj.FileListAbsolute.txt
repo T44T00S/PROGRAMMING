@@ -1,0 +1,4 @@
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\obj\Debug\netcoreapp3.1\Trenik2_Budik.csprojAssemblyReference.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\obj\Debug\netcoreapp3.1\Trenik2_Budik.AssemblyInfoInputs.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\obj\Debug\netcoreapp3.1\Trenik2_Budik.AssemblyInfo.cs
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\obj\Debug\netcoreapp3.1\Trenik2_Budik.csproj.CoreCompileInputs.cache
