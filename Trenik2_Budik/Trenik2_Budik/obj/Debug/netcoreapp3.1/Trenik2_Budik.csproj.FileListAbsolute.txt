@@ -2,3 +2,12 @@ C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Tren
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\obj\Debug\netcoreapp3.1\Trenik2_Budik.AssemblyInfoInputs.cache
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\obj\Debug\netcoreapp3.1\Trenik2_Budik.AssemblyInfo.cs
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\obj\Debug\netcoreapp3.1\Trenik2_Budik.csproj.CoreCompileInputs.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\bin\Debug\netcoreapp3.1\Trenik2_Budik.exe
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\bin\Debug\netcoreapp3.1\Trenik2_Budik.deps.json
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\bin\Debug\netcoreapp3.1\Trenik2_Budik.runtimeconfig.json
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\bin\Debug\netcoreapp3.1\Trenik2_Budik.runtimeconfig.dev.json
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\bin\Debug\netcoreapp3.1\Trenik2_Budik.dll
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\bin\Debug\netcoreapp3.1\Trenik2_Budik.pdb
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\obj\Debug\netcoreapp3.1\Trenik2_Budik.dll
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\obj\Debug\netcoreapp3.1\Trenik2_Budik.pdb
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Trenik2_Budik\Trenik2_Budik\obj\Debug\netcoreapp3.1\Trenik2_Budik.genruntimeconfig.cache
