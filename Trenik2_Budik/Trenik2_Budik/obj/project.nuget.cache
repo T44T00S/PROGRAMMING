@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3AGFdi9/K9Hvi126566p677X8+r0G/WM0FIhKiKXhu81LsZLiorjmdhXwdTW9gTrsPswG/eBeByHJge9Jg339g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\Trenik2_Budik\\Trenik2_Budik\\Trenik2_Budik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
