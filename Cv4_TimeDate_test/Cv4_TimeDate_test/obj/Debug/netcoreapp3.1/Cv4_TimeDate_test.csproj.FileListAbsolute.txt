@@ -10,3 +10,4 @@ C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv4_
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv4_TimeDate_test\Cv4_TimeDate_test\obj\Debug\netcoreapp3.1\Cv4_TimeDate_test.dll
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv4_TimeDate_test\Cv4_TimeDate_test\obj\Debug\netcoreapp3.1\Cv4_TimeDate_test.pdb
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv4_TimeDate_test\Cv4_TimeDate_test\obj\Debug\netcoreapp3.1\Cv4_TimeDate_test.genruntimeconfig.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv4_TimeDate_test\Cv4_TimeDate_test\obj\Debug\netcoreapp3.1\Cv4_TimeDate_test.csprojAssemblyReference.cache
