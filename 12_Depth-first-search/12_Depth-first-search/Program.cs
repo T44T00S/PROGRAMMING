@@ -29,9 +29,15 @@ namespace _12_Depth_first_search
             PridatSouseda(1, 4);
             PridatSouseda(4, 2);
             PridatSouseda(4, 6);
+            PridatSouseda(4, 5);
             PridatSouseda(2, 1);
             PridatSouseda(2, 3);
             PridatSouseda(2, 3);
+            PridatSouseda(2, 3);
+            PridatSouseda(2, 3);
+
+            bool b = Node.Start(nody.Find(m => m.id == 2), nody.Find(m => m.id == 5));
+            Console.WriteLine(b);
 
             void PridatSouseda(int x, int y)
             {
