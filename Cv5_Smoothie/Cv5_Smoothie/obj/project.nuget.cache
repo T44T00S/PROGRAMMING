@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LmjJydkxi5ieEwxtG4kUBdcyldlP2kkd+9xWa/0MdwFGWtaBmqFToKYHZXepV07KUidIiCHMTj+amF3o56KH6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\Cv5_Smoothie\\Cv5_Smoothie\\Cv5_Smoothie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
