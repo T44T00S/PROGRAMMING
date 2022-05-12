@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CX7L1kXBMAf90Rkfmh7zOmEhD5Xy0RBvQR/UKgec0G9LQ/pmLIrwrlHsYasRRiTgJtQzCYX4xeyNtqhoMAv2CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\13_List-studentu\\13_List-studentu\\13_List-studentu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
