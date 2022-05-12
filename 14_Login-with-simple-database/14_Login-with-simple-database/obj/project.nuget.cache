@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9iOMa19f/coMEZyX2zG4kdkI30ChXDxDXDRkWfYn9eFhtPdOwott9yM5Qiee0DGjmWg8H4PElfJi3vtzt0xe3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\14_Login-with-simple-database\\14_Login-with-simple-database\\14_Login-with-simple-database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

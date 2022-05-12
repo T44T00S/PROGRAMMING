@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Login-with-simple-database", "14_Login-with-simple-database\14_Login-with-simple-database.csproj", "{77B5FF30-1F8A-4A93-B808-568D2F983079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B5FF30-1F8A-4A93-B808-568D2F983079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B5FF30-1F8A-4A93-B808-568D2F983079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B5FF30-1F8A-4A93-B808-568D2F983079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B5FF30-1F8A-4A93-B808-568D2F983079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ED80D8C-6336-4A00-B161-2E6F5A528D56}
+	EndGlobalSection
+EndGlobal
