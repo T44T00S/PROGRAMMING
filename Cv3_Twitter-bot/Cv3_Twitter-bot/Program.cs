@@ -32,7 +32,7 @@ namespace Cv3_Twitter_bot
             string APISecret = "<>";
             string AccessToken = "<>-<>";
 
-            //string AccessSecret = "r449nQ5E09lRtmtzXcr9Fr8tJIbKQoArlULQzEZjKpnIq";
+            //string AccessSecret = "<>";
 
             byte[] ImageBytes = File.ReadAllBytes("snoop.jpg");
             TwitterClient UserClient = new TwitterClient(APIKey, APISecret);
