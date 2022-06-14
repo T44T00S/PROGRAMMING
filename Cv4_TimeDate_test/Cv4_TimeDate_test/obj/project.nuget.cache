@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kdhmglX8qGVk8JLwBmy3WBtbhwVCYBHTChd4g8XZ4Gj9Cu1U4PntkOPJpLbk6wE8SQnguOU2YR6acPgLslA1KA==",
+  "dgSpecHash": "2UsJM52SylnEAHUbWvST32dugki/VDdiSEbxKICmtRyejdFb1nPtl2bhHJts4sa+vJkRKydFuqlS5wyydpEaPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Petr\\OneDrive\\SSPŠ\\Druhy_rocnik\\Programování a vývoj aplikací\\Cv4_TimeDate_test\\Cv4_TimeDate_test\\Cv4_TimeDate_test.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Petr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

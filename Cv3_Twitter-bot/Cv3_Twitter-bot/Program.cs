@@ -40,7 +40,7 @@ namespace Cv3_Twitter_bot
 
 
             IMedia ImageIMedia = await UserClient.Upload.UploadTweetImageAsync(ImageBytes);
-            ITweet TweetWithImage = await UserClient.Tweets.PublishTweetAsync(new PublishTweetParameters(SnoopQuotes[RandNum.Next(10)] + "#ZemanNaUlici #SSPSNotGood #CyberMeansPrestige") { Medias = { ImageIMedia }});
+            ITweet TweetWithImage = await UserClient.Tweets.PublishTweetAsync(new PublishTweetParameters(SnoopQuotes[RandNum.Next(10)] + "#ZemanNaUlici #ItIsWhatItIs #CyberMeansPrestige") { Medias = { ImageIMedia }});
         }
     }
 }

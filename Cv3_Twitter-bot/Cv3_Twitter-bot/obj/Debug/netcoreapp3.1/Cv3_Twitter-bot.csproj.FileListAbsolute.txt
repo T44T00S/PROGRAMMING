@@ -14,7 +14,6 @@ C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\bin\Debug\netcoreapp3.1\Tweetinvi.Streams.dll
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\bin\Debug\netcoreapp3.1\Tweetinvi.WebLogic.dll
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\bin\Debug\netcoreapp3.1\Tweetinvi.dll
-C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\obj\Debug\netcoreapp3.1\Cv3_Twitter-bot.csprojAssemblyReference.cache
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\obj\Debug\netcoreapp3.1\Cv3_Twitter-bot.AssemblyInfoInputs.cache
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\obj\Debug\netcoreapp3.1\Cv3_Twitter-bot.AssemblyInfo.cs
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\obj\Debug\netcoreapp3.1\Cv3_Twitter-bot.csproj.CoreCompileInputs.cache
@@ -22,3 +21,5 @@ C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\obj\Debug\netcoreapp3.1\Cv3_Twitter-bot.dll
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\obj\Debug\netcoreapp3.1\Cv3_Twitter-bot.pdb
 C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\obj\Debug\netcoreapp3.1\Cv3_Twitter-bot.genruntimeconfig.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\obj\Debug\netcoreapp3.1\Cv3_Twitter-bot.csproj.AssemblyReference.cache
+C:\Users\Petr\OneDrive\SSPŠ\Druhy_rocnik\Programování a vývoj aplikací\Cv3_Twitter-bot\Cv3_Twitter-bot\obj\Debug\netcoreapp3.1\Cv3_Twitter-bot.GeneratedMSBuildEditorConfig.editorconfig
